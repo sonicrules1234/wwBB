@@ -1,0 +1,39 @@
+.box {
+   width: 50%;
+   height: auto;
+   border: 1px solid #000000;
+}
+.infobox {
+   width: auto;
+   height: 20px;
+   background-color: #736AFF;
+}
+.postbox {
+   padding-left: 20px;
+}
+.insideinfoboxleft {
+   width: 50%;
+   text-align: left;
+   float: left;
+}
+.insideinfoboxright {
+   width: 50%;
+   float: right;
+   text-align: right;
+}
+.header {
+   text-align:center;
+   float: center;
+}
+.innerleftinfo {
+   padding-left: 5px;
+   background-color: #736AFF
+}
+.innerrightinfo {
+   padding-right: 5px;
+   background-color: #736AFF
+}
+.footer {
+   text-align:center;
+   float: center;
+}
